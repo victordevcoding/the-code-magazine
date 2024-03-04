@@ -6,6 +6,4 @@ This is a simple project using HTML and CSS for study purposes to learn and impr
 
 ## Live Preview:
 
-Para ver o projeto, visite: https://victordevcoding.github.io/the-code-magazine/
-
-To see the project, visit: https://victordevcoding.github.io/the-code-magazine/
+Live Preview: https://victordevcoding.github.io/the-code-magazine/
